@@ -1,8 +1,10 @@
 # NovaSpatieTagsFilter
-Works with Laravel Nova 4
-Borrowed heavily from https://github.com/Mahi-Mahi/SpatieTagsNovaFilter
+Works with Laravel Nova 4.  
+Borrowed heavily from https://github.com/Mahi-Mahi/SpatieTagsNovaFilter.  
+
 This package allows you to filter resources by tags.
-(using the awesome [Spatie/laravel-tags](https://github.com/spatie/laravel-tags) and [Vue-MultiSelect](https://github.com/shentao/vue-multiselect) )
+
+Using the awesome [Spatie/laravel-tags](https://github.com/spatie/laravel-tags) and [Vue-MultiSelect](https://github.com/shentao/vue-multiselect) 
 
 ## Installation
 
